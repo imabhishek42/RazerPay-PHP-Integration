@@ -147,8 +147,8 @@ Steps to follow for a release:
 
 ## To run this code - 
 
-1. Generate Api Key and Api Secret in Settings page of RazerPay.
-2. Set Api Key and Api Secret in pay.php and success.php
+1. Generate KeyID and KEY Secret in Settings page of RazerPay.
+2. Set KEYID and KEY Secret in pay.php and success.php
 3. Go to index.html
 4. Enter Details and then click on submit
 5. Click to process
