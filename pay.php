@@ -1,4 +1,7 @@
 <?php
+
+session_start();
+
 include "Razorpay.php";
 include "config.php";
 
